@@ -13,10 +13,10 @@
 #define WIFI_PASSWORD ""
 
 // Firebase API Key
-#define API_KEY "AIzaSyDpiTWATXUDcDsBSOO7E8tV5hmMBJzJ8kI"
+#define API_KEY "api key of rtdb"
 
 // Firebase Database URL
-#define DATABASE_URL "https://esp32-c27ef-default-rtdb.firebaseio.com/" 
+#define DATABASE_URL "your url for firebase" 
 
 //Define Firebase Data object
 FirebaseData fbdo;
